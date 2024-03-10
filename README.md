@@ -16,4 +16,4 @@ recursion: repeat the update step, each step the output space decreases and lose
 
 evaluate whether the neuron is outlayer: compute MID, which has the biggest MID
 
-implementation: split into 2 sets X, Y: all 14 attributes for one, and whether proved for another one.
+implementation: split into 2 sets X, Y: all 14 attributes for one, and whether proved for another one..
